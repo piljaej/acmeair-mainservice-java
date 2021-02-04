@@ -29,7 +29,7 @@ Prereq: [Install Docker, docker-compose, and start Docker daemon on your local m
     * docker-compose build --pull
     * NETWORK=my-net docker-compose up
 
-4. Go to http://docker_machine_ip/acmeair
+4. Go to http://docker_machine_ip/acmeair (127.0.0.1/acmeair)
 5. Go to the Configuration Page and Load the Database
 
 ## Openshift Instructions
